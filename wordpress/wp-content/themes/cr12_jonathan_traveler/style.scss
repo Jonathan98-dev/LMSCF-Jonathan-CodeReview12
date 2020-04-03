@@ -1,0 +1,63 @@
+/*
+Theme Name: cr12_Jonathan_traveler
+Author: Jonathan
+*/
+
+*
+{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+}
+
+body
+{
+	background: lightgrey;
+}
+
+.header
+{
+	background: white;
+	width: 100%;
+	height: 60px;	
+	border-bottom: indianred 5px solid;
+}
+
+.content
+{
+	// padding: 16px;
+}
+
+.sticky
+{
+	position: fixed;
+	top: 0;
+	width:100%;
+}
+
+.sticky + .content
+{
+	padding-top: 102px;
+}
+
+
+.navigation
+{
+	display: flex;
+	list-style-type: none;
+	flex  
+
+	li 
+	{
+		border: 1px solid green;
+
+		a 
+		{
+			text-decoration: none;
+			color: black;
+		}
+	}
+	
+	
+}
