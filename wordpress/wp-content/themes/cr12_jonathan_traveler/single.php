@@ -11,8 +11,6 @@
 
 	<?php endwhile; endif; ?>
 		
-
-
 </div>
 
 
